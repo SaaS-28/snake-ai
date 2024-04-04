@@ -7,4 +7,4 @@ To implementi it, I used **python**, more precisely [**pygame**]("https://www.py
 
 This AI is a type of artificial intelligence that uses a **preadded model**. Is commonly called *"model-based artificial intelligence"* or *"neural network-based artificial intelligence"*. This approach is part of **supervised learning**, where a model is trained on a **dataset labeled** and then used to **make predictions** about new data without further adaptation during use. 
 
-For "training" the AI I used both fruit and snake position and their distance so the AI can **calculate the best path to achieve the apple without hit something** (By now the record of apple eaten is of 53 apples :) ).
+For "training" the AI use both fruit and snake position and their distance so the AI can **calculate the best path to achieve the apple without hit something** (By now the record of apple eaten is of 53 apples :) ).
